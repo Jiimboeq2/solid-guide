@@ -1,5 +1,4 @@
-# solid-guide
-DPS calculator
+dps
+===
 
-super old file that needs to be updated. kinda like OGREAE but will also calculate how well a spell/CA will do with X number in encounters. 
-If any one wants to update this, be my guest.
+Generate an optimal cast order for a given encounter duration and number of targets, for a game like everquest 2 (eq2).
